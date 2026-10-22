@@ -1,0 +1,6 @@
+{
+  "name": "Loker Resmi Anwar Al Madinah Mövenpick - Terverifikasi BP2MI",
+  "description": "Lowongan kerja resmi Anwar Al Madinah Mövenpick Hotel, Madinah. Gaji 4000 SAR. Jalur resmi terverifikasi SISKOP2MI/BP2MI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
